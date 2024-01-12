@@ -1,0 +1,16 @@
+path: "/content/gdrive/My Drive/PCD/tubes/percobaan/dataset_boundingbox" # dataset root dir
+train: train/images # train images (relative to 'path')
+val: valid/images # val images (relative to 'path')
+
+# Classes
+names:
+  0: cat
+  1: chicken
+  2: cow
+  3: dog
+  4: fox
+  5: goat
+  6: horse
+  7: person
+  8: racoon
+  9: skunk
